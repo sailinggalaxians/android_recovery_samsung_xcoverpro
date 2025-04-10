@@ -1,2 +1,10 @@
-# android_recovery_samsung_xcoverpro
-TWRP tree for Samsung Galaxy Xcover Pro
+# Android device tree for samsung SM-G715FN (xcoverpro)
+
+```
+#
+# Copyright (C) 2025 The Android Open Source Project
+# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
