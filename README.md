@@ -10,6 +10,7 @@
 =========================================
 
 Samsung Galaxy Xcover Pro (codenamed _"xcoverpro"_) is a mid-range smartphone from Samsung Electronics, Co. Ltd. released in early 2020.
+
 ![Samsung Galaxy Xcover Pro](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-xcover-pro-1.jpg)
 
 ## Device specifications
